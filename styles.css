@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#resultado div {
+    background: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+strong {
+    color: #007bff;
+}
+table {
+    padding: 2%;
+}
+thead {
+    padding: 2%;
+}
+tbody {
+    padding: 2%;
+}
