@@ -29,11 +29,11 @@ strong {
 }
 
 table {
-    width: 80%; /* Define a width for the table */
-    margin: 20px auto; /* Center the table horizontally */
-    border-collapse: collapse; /* Optional: Remove gaps between table borders */
-    background-color: #fff; /* Optional: Add a background color */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow for a modern look */
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     padding: 2%;
 }
 

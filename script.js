@@ -2,7 +2,7 @@ fetch('http://localhost:3000/sensor')
     .then(response => response.json())
     .then(data => {
         console.log("📌 Datos recibidos en el frontend:", data);
-
+        // Carga de datos en la tabla
         document.getElementById('resultado').innerHTML = `
             <p><strong>Temperatura:</strong> ${data.temperature} °C</p>
             <p><strong>Humedad:</strong> ${data.humidity} %</p>
